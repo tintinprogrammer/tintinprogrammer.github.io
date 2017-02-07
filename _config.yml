@@ -1,0 +1,21 @@
+# Site settings
+title : Tintin Programmer
+author: Tintin Programmer
+#author_avatar: https://gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=50
+email: tintinprogrammer@gmail.com
+description: Programming, in a Tintin-ish way.
+baseurl: "" # optional
+url: "http://www.tintinprogrammer.com"
+twitter_username: tintinprogrammer
+github_username: tintinprogrammer
+github_repo: tintinprogrammer/tintinprogrammer.github.io
+google_analytics: UA-91643501-1
+# disqus: disqus-id
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+gems:
+  - jekyll-sitemap
