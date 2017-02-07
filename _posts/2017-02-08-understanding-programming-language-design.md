@@ -6,8 +6,6 @@ comments: false
 
 <!-- talks -->
 
-## 2016
-
 ### Understanding programming language design by writing a simple language
 
 [Thoughtworks Geeknight](https://www.youtube.com/playlist?list=PLUSOYsx56ABBJrr_tHVF70V_XPfyJYh12) – Coimbatore, India – November 2016
