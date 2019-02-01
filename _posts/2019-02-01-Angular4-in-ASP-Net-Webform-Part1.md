@@ -1,6 +1,7 @@
 ---
-layout:post
-published: true
+layout: post
+title: "Developing and Deploying Angular 4 application in an ASP.Net Webform Driven website "
+comments: false
 ---
 ## Developing and Deploying Angular 4 application in ASP.Net Webform - Part 1
 
